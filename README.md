@@ -1,3 +1,7 @@
+# !DEPRECATED! See [nix-config](https://github.com/Gerschtli/nix-config)
+
+I am transitioning to a flakes-only setup within a mono-repo containing all configs.
+
 # NixOS configurations
 
 This repository manages all my NixOS configuration files and the corresponding library of custom
